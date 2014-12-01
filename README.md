@@ -9,8 +9,6 @@ Welcome to the Test Cycle!
 
 Agency: NOAA’s National Geophysical Data Center (NGDC)
 
-XXXXXXX
-
 Application Name: NOAA-CrowdMag iOS application
 
 Test Cycle Dates: TBD
@@ -28,14 +26,14 @@ This document gives some terms and insights into testing mobile applications.
 
 === Test Cycle Questionnaire ===
 
-XXXXXXX (On the Google Drive)
+https://drive.google.com/?utm_source=en&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive&pli=1#folders/0B2idn27Mp7VTM2Y4QVFiU25vMlE (On the Google Drive)
 This document contains all of the applications specifics required to complete this test cycle.
 
 === NOAA-Crowd-Mag iOS Test Case 12/2014 ===
 
-XXXXXXX (On the Google Drive)
+https://docs.google.com/spreadsheets/d/1mbXx-fzWNCo0y-ezwi1T1cL6IhQhFLTly8GOCvNWQJw/edit#gid=506992056 (On the Google Drive)
 This is the test case that you are to download, complete and email back to us.
 
 === Using Github ===
 
-XXXXX (On the Google Drive)
+https://github.com/GSA/Crowdsource-Testing-Central-Artifact-Repository/wiki/Using-GitHub-for-GSA-Crowd-Source-Compatibility-Test-Cycles-Document
