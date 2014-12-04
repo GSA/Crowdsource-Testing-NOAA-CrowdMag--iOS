@@ -11,7 +11,7 @@ Agency: NOAA’s National Geophysical Data Center (NGDC)
 
 Application Name: NOAA-CrowdMag iOS application
 
-Test Cycle Dates: TBD
+Test Cycle Dates: 12/9/2014 to 12/24/2014
 
 Test Cycle Coordinator: David Fern david.fern@ssa.gov
 
