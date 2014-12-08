@@ -27,7 +27,9 @@ This document gives some terms and insights into testing mobile applications.
 === Test Cycle Questionnaire ===
 
 https://github.com/GSA/Crowdsource-Testing-NOAA-CrowdMag--iOS/wiki/NOAA-CrowdMag-iOS-12-2014-Test-Cycle-Questionnaire
-and
+ 
+or
+ 
 https://drive.google.com/?utm_source=en&utm_medium=button&utm_campaign=web&utm_content=gotodrive&usp=gtd&ltmpl=drive&pli=1#folders/0B2idn27Mp7VTM2Y4QVFiU25vMlE (On the Google Drive)
 This document contains all of the applications specifics required to complete this test cycle.
 
