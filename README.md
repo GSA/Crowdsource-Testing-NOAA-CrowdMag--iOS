@@ -36,6 +36,11 @@ This document contains all of the applications specifics required to complete th
 === NOAA-Crowd-Mag iOS Test Case 12/2014 ===
 
 https://docs.google.com/spreadsheets/d/1mbXx-fzWNCo0y-ezwi1T1cL6IhQhFLTly8GOCvNWQJw/edit#gid=506992056 (On the Google Drive)
+
+or
+
+https://github.com/GSA/Crowdsource-Testing-NOAA-CrowdMag--iOS/blob/master/Test_Case_Template__NOAA_CROWDMAG_12_2014.xlsx
+
 This is the test case that you are to download, complete and email back to us.
 
 === Using Github ===
